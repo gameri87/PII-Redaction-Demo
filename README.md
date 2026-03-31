@@ -55,7 +55,7 @@ PII_REDACTION_METHOD=azure_language  # cloud, Azure AI Language
 
 ```bash
 # Clone and enter the project
-git clone https://github.com/YOUR-USERNAME/PII-Redaction.git
+git clone https://github.com/gameri87/PII-Redaction-Demo.git
 cd PII-Redaction
 
 # Configure environment
